@@ -1,0 +1,5 @@
+# Install the correct CPU/CUDA build of PyTorch first: https://pytorch.org/get-started/locally/
+torch>=1.13
+ultralytics==8.0.201
+numpy>=1.22.2,<2.0
+prettytable>=3.9,<4

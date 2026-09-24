@@ -1,0 +1,12 @@
+# Replace this with the absolute path of your RDD2022 YOLO-format dataset.
+path: /path/to/RDD2022
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: D00
+  1: D10
+  2: D20
+  3: D40
+  4: Repair

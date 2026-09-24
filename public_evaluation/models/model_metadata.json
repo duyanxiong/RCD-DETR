@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-09-23T06:56:41.672201+00:00",
+  "format": "torchscript",
+  "derived_from": "best.pt",
+  "imgsz": 640,
+  "parameters": 21374997,
+  "gflops": 77.21508384,
+  "names": {
+    "0": "D10",
+    "1": "D00",
+    "2": "D20",
+    "3": "Repair",
+    "4": "D40"
+  },
+  "source_checkpoint_size_mb": 83.99991607666016,
+  "artifact_size_mb": 71.27783107757568,
+  "runtime_test_device": "0",
+  "sha256": "b9381bf32ef77827fa8efd964f2f1c76a2c18a79d1d576b7652d6cbf745bc980"
+}
